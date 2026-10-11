@@ -10,7 +10,7 @@ The mod works with 2 parts: the importer (this mod) which scans the list of mods
 
 1. First, you will need to have the importer installed (this mod). Then you can add as many custom mods as you want (following the same template specifications).
 
-2. To create a custom build of the audios you want to import, visit the importer's [Web-Tool](https://j0ss077.github.io/SimpleAudioImporterFactorioMod) (insert the audios, a few more necessary data, and it will give you a custom `.zip`).
+2. To create a custom build of the audios you want to import, visit the importer's [Web-Tool](https://j0ss077.github.io/FactorioMod-SimpleAudioImporter) (insert the audios, a few more necessary data, and it will give you a custom `.zip`).
 
 3. Move all the custom `.zip` files to the game's mods folder, and then you can start Factorio.
 
@@ -27,7 +27,7 @@ Here we're gonna create a custom build manually (intended for more experienced u
 
 ## Step 1 — Download the template
 
-Download the [Simple-Audio-Template](https://github.com/J0ss077/SimpleAudioTemplateFactorioMod) repository as a `.zip` and extract it. The extracted folder is your starting point.
+Download the [Simple-Audio-Template](https://github.com/J0ss077/FactorioMod-SimpleAudioTemplate) repository as a `.zip` and extract it. The extracted folder is your starting point.
 
 ## Step 2 — Add your audio files
 
